@@ -1,0 +1,10 @@
+{
+  "name": "retailprime-angular",
+  "version": "0.0.1",
+  "dependencies": {
+      "angular-resource": "1.5.8",
+      "angular": "1.5.8",
+      "ngstorage": "*",
+      "lodash": "*"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "retailprime-angular",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": {
+    "name": "Ali Rizwan",
+    "email": "ali.aruz@outlook.com"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "amdefine": "^1.0.1",
+    "fs.realpath": "^1.0.0",
+    "lodash._baseassign": "^3.2.0"
+  }
+}
